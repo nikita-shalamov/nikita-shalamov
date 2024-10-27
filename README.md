@@ -1,16 +1,16 @@
-## Hi there 👋
+### Привет! 👋 Я Никита, Frontend-разработчик
 
-<!--
-**nikita-shalamov/nikita-shalamov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Резюме - https://clck.ru/3EArCx
 
-Here are some ideas to get you started:
+### 🛠️ Навыки
+- React/Next.js, TypeScript, Tailwind, Redux/Zustand, Git и др.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 Проекты
+- MatchMe - https://matchmesite.ru ([Клиент](https://github.com/nikita-shalamov/tinder-client), [Сервер](https://github.com/nikita-shalamov/tinder-server)): Аналог тиндера в Телеграм веб апп. Стэк: React.js, Express.js, mongoose, react-router-dom, WebSockets, Antd, REST API
+- [Проект 2](ссылка_на_проект_2): Краткое описание проекта.
+- [Проект 3](ссылка_на_проект_3): Краткое описание проекта.
+
+### 📫 Контакты
+- Email: nikita.shalamovv@yandex.ru
+- Telegram: t.me/nikita_frl
+
