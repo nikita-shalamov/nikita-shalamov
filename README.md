@@ -15,4 +15,4 @@
 
 ### 📫 Контакты
 - Email: nikita.shalamovv@yandex.ru
-- Telegram: t.me/nikita_frl
+- Telegram:  [@nikita_frl](https://t.me/nikita_frl)
