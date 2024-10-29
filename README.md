@@ -10,7 +10,10 @@
 [**MatchMe**](https://matchmesite.ru) - ([Клиент](https://github.com/nikita-shalamov/tinder-client), [Сервер](https://github.com/nikita-shalamov/tinder-server)): Аналог тиндера в Телеграм веб апп. 
 Стэк: React.js, Express.js, mongoose, react-router-dom, WebSockets, Antd, REST API
 
-[**CodeEngine**](https://github.com/nikita-shalamov/code-engine): Сайт с курсами по IT профессиям.
+[**Aijora**](https://aijora.ru): ChatGPT + другие нейросети и шаблонные промпты.
+Стэк: Next.js, React.js, Tailwind, TypeScript, Next Auth, REST API, Next UI
+
+**CodeEngine**: Сайт с курсами по IT профессиям.
 Стэк: React.js, react-router-dom, WebSockets
 
 ### 📫 Контакты
