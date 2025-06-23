@@ -1,7 +1,7 @@
 
 # Привет! Я Никита — Middle Frontend-разработчик (Next.js, React.js) 👨‍💻
 
-📄 [Резюме](https://clck.ru/3EArCx) | Telegram: [@nikita_frl](https://t.me/nikita_frl) | 📍 Remote
+Telegram: [@nikita_frl](https://t.me/nikita_frl) | 📍 Remote
 
 ## 🛠️ Технологии
 
