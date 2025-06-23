@@ -1,27 +1,26 @@
 
-### Привет! 👋 Я Никита, Frontend-разработчик
+# Привет! Я Никита — Middle Frontend-разработчик (Next.js, React.js) 👨‍💻
 
-Резюме - https://clck.ru/3EArCx
+📄 [Резюме](https://clck.ru/3EArCx) | Telegram: [@nikita_frl](https://t.me/nikita_frl) | 📍 Remote
 
-### 🛠️ Навыки
-- React/Next.js, TypeScript, Tailwind, Redux/Zustand, Git и др.
+## 🛠️ Технологии
 
-### 🌍 Проекты
+**Frontend:** React, Next.js, TypeScript, Tailwind, Redux, Zustand, TanStack Query, WebSockets  
+**Backend:** Express, Prisma  
+**UI:** Ant Design, Next UI, Shadcn  
+**Инструменты:** Git, GitHub Actions, i18n, Google/VK/Yandex Auth, REST API
 
-[**Aijora**](https://aijora.ru): ChatGPT + другие нейросети и шаблонные промпты. \
-Стэк: Next.js, React.js, Tailwind, TypeScript, Next Auth, REST API, Next UI
+## 🚀 Проекты
 
-[**Стадизавр**](https://studyzavr.ru): Платформа для репетиторов и учеников. \
-Стэк: Next.js, Next.js API, React.js, Tailwind, TypeScript, TanStack Query, Next Session, REST API, Next UI \
-Репозиторий - https://github.com/nikita-shalamov/studyzavr
+### [Cookify AI](https://cookify-ai.ru)  
+Генерация рецептов с помощью ChatGPT и Stable Diffusion. SEO-оптимизация, SSR/ISR, авторизация через Google, админка.  
+**Стек:** Next.js, TypeScript, Tailwind, Express, Prisma, Next Auth, REST API
 
-[**MatchMe**](https://matchmesite.ru): Аналог тиндера в Телеграм веб апп. \
-Стэк: React.js, Express.js, mongoose, react-router-dom, WebSockets, Antd, REST API \
-Репозитории - [Клиент](https://github.com/nikita-shalamov/tinder-client), [Сервер](https://github.com/nikita-shalamov/tinder-server)
+### [Aijora](https://aijora.ru)  
+AI-платформа с ChatGPT, Claude, Gemini и генерацией изображений. Поддержка подписок, чатов с файлами, мульти-авторизация, админка.  
+**Стек:** Next.js, React, TypeScript, Tailwind, Next Auth, Next UI, TanStack Query, REST API
 
-**CodeEngine**: Сайт с курсами по IT профессиям. \
-Стэк: React.js, react-router-dom, WebSockets, SCSS
+### 🌐 Маугри (SaaS Telegram Web App)  
+Крупный сервис с клиентом и админкой. Полноэкранный режим, Yandex Map API, собственный UI Kit на Shadcn, i18n.  
+**Стек:** React, TypeScript, Tailwind, Redux, REST API, Shadcn, react-yandex-maps, i18n
 
-### 📫 Контакты
-- Email: nikita.shalamovv@yandex.ru
-- Telegram: [@nikita_frl](https://t.me/nikita_frl)
